@@ -1,6 +1,6 @@
 # Task Tracker Frontend
 
-![Task Tracker Frontend]
+
 
 ## 🚀 Overview
 Task Tracker Frontend is a modern **React-based web application** designed to manage tasks efficiently. It provides an intuitive user interface that allows users to **add, update, delete, and complete tasks** while ensuring proper authentication and role-based authorization.
