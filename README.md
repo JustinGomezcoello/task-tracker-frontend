@@ -126,6 +126,6 @@ This project was developed as part of a **Full Stack Web Development** practice 
 
 ---
 
-📩 **Need Support?** Feel free to reach out via [email/justingomezcoello@gmail.com].
+📩 **Need Support?** Feel free to reach out via email **justingomezcoello@gmail.com**.
 
 
